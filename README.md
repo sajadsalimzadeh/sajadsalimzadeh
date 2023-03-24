@@ -78,6 +78,7 @@ this is my plan to learn and share.
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=JavaScript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-323330?style=flat-square&logo=CoffeeScript&logoColor=orange)
 ![json](https://img.shields.io/badge/json-5E5C5C?style=flat-square&logo=json&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)
@@ -109,11 +110,5 @@ this is my plan to learn and share.
 ### Activity State
 
 ---
-<div style="display: flex;align-items: flex-start; gap: 20px">
-    <div style="width: 70%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajadsalimzadeh&theme=react" alt="Summary"/>
-    </div>
-    <div>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajadsalimzadeh&theme=github" alt="Most Usage Languages"/>
-    </div>
-</div>
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajadsalimzadeh&theme=react)
+
