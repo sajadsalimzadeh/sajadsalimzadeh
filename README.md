@@ -2,6 +2,65 @@
 
 Website: [dorbit.ir](http://dorbit.ir)
 
+### My Skills
+Sorted by experience
+
+High Level (I use them at least once every year)
+
+![SQLSERVER](https://img.shields.io/badge/Sqlserver-333?style=flat-square&logo=microsoft&logoColor=white)
+![redis](https://img.shields.io/badge/redis-%23DD0031?style=flat-square&logo=redis&logoColor=white)
+![PostgresSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=React&logoColor=61DAFB)
+![GIT](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=GIT&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![Spring_Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat-square&logo=spring-boot)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=postgresql&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm)
+![NuGet](https://img.shields.io/badge/NuGet-004880?style=flat-square&logo=NuGet)
+![Shell_Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=257095)
+
+![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=JavaScript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-323330?style=flat-square&logo=CoffeeScript&logoColor=orange)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+
+Average Level (I had a project throughout my experience)
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=MySQL&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![rabbitmq](https://img.shields.io/badge/rabbitmq-%23FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express)
+![apache_maven](https://img.shields.io/badge/apache_maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![next.js](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=next.js)
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=Python&logoColor=blue)
+
+Low Level (I just tested it)
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=Vue.js)
+![kubernetes](https://img.shields.io/badge/kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white)
+![GraphQl](https://img.shields.io/badge/GraphQl-E10098?style=flat-square&logo=GraphQl)
+![React_Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white)
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
 ### Learning Plan
 I try to share everything i know because i believe the world can better than what now we see. 
 so I learn and share it by photo, article and videos.
@@ -9,6 +68,7 @@ this is my plan to learn and share.
 
 #### Databases
 ![PostgresSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![SQLSERVER](https://img.shields.io/badge/Sqlserver-333?style=flat-square&logo=microsoft&logoColor=white)
 ![MARIADB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=MongoDB&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=MySQL&logoColor=white)
@@ -38,7 +98,7 @@ this is my plan to learn and share.
 ![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=flat-square&logo=Gulp&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=Helm)
-![kubernetes-326ce5](https://img.shields.io/badge/kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white)
+![kubernetes](https://img.shields.io/badge/kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white)
 ![next.js](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=next.js)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white)
@@ -80,6 +140,7 @@ this is my plan to learn and share.
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=JavaScript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-323330?style=flat-square&logo=CoffeeScript&logoColor=orange)
 ![json](https://img.shields.io/badge/json-5E5C5C?style=flat-square&logo=json&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white)
@@ -90,7 +151,6 @@ this is my plan to learn and share.
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white)
 
 #### OS
 ![Alpine_Linux](https://img.shields.io/badge/Alpine_Linux-0D597F?style=flat-square&logo=alpine-linux&logoColor=white)
